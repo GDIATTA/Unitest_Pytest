@@ -13,7 +13,7 @@ Testing with UnitTest is straightforward. Here are the steps:<br>
 
 ##### ---------------------------------How to Test Using PyTest----------------------------------------------:<br>
 Testing with PyTest is also simple. Follow these steps:<br>
-> Set up PyTest: pip install -U pytest
-> Add PyTest to the system environment variable.
-> Check the version of PyTest: pytest --version
-> Create a method to test the code. Refer to the file test_pytest.py in my repository for an example.
+> Set up PyTest: pip install -U pytest<br>
+> Add PyTest to the system environment variable.<br>
+> Check the version of PyTest: pytest --version<br>
+> Create a method to test the code. Refer to the file test_pytest.py in my repository for an example.<br>
